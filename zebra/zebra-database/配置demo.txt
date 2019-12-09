@@ -1,0 +1,6 @@
+zebra.database.url[0]=jdbc:jtds:sqlserver://172.24.140.84:1433/ngum
+zebra.database.username[0]=sa
+zebra.database.pwd[0]=12345678
+zebra.database.basePackage[0]=com.guosen.zebra.hello.mapper
+zebra.database.dataSourceName[0]=gum
+logging.level.com.guosen.zebra.hello.mapper=debug
